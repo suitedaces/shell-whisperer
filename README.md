@@ -1,6 +1,6 @@
 # 🔮 Shell Whisperer 🔮
 
-Shell Whisperer is a command-line tool that generates CLI (Command Line Interface) commands based on natural language input. Powered by OpenAI's GPT-3.5-turbo language model, Shell Whisperer can understand a wide range of tasks described in plain English and provide the corresponding shell commands. Optionally, it can also provide explanations of how the generated commands work.
+Shell Whisperer is a command-line productivity tool for Python developers that generates CLI (Command Line Interface) commands based on natural language input. Powered by OpenAI's GPT-3.5-turbo language model, Shell Whisperer can understand a wide range of tasks described in plain English and provide the corresponding shell commands. Optionally, it can also provide explanations of how the generated commands work.
 
 ## Features
 
