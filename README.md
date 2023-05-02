@@ -38,7 +38,7 @@ This will download and install Shell Whisperer and its dependencies.
 ### Usage
 Once installed, you can use the whisperer command (or the entry point you defined) to interact with Shell Whisperer. Here's an example of how to use the tool:
 
-### Provide 
+### Provide whisperer with your OpenAI keys
    ```shell
    whisperer configure 
    
