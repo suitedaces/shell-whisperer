@@ -41,10 +41,9 @@ Once installed, you can use the whisperer command (or the entry point you define
 ### Provide whisperer with your OpenAI keys
    ```shell
    whisperer configure 
-   
-   Output: 
-   Enter your OpenAI key: <your_OpenAI_key>
    ```
+   Output: 
+   Enter your OpenAI key: <enter_your_OpenAI_key>
 
 ### After configuration, request Shell Whisperer to generate a command
    ```shell
