@@ -38,14 +38,21 @@ This will download and install Shell Whisperer and its dependencies.
 ### Usage
 Once installed, you can use the whisperer command (or the entry point you defined) to interact with Shell Whisperer. Here's an example of how to use the tool:
 
+### Provide 
+   ```shell
+   whisperer configure 
+   
+   Output: 
+   Enter your OpenAI key: <your_OpenAI_key>
+   ```
 
-### Ask Shell Whisperer to generate a command
+### After configuration, request Shell Whisperer to generate a command
    ```shell
    whisperer request "list all files in the current directory"
    ```
 
 
-### You can also request an explanation of the generated command
+### Request an explanation of the generated command
    ```shell
    whisperer request "list all files in the current directory" --explain
    ```
